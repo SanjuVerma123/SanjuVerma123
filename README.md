@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋 I'm Sanju Verma
 
-<!--
-**SanjuVerma123/SanjuVerma123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Data Science student who enjoys working with data and discovering insights from it.
 
-Here are some ideas to get you started:
+## 💻 Skills
+- Python
+- SQL
+- Excel
+- Power BI
+- Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects
+- Sales Data Analysis Dashboard
+- Customer Churn Prediction
+- SQL Data Analysis Project
+
+## 🌱 Currently Learning
+- Machine Learning
+- Advanced SQL
+- Data Visualization
+
+## 🎯 Goal
+To become a skilled Data Analyst and solve real-world problems using data.
