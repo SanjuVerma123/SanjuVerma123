@@ -1,4 +1,4 @@
- Hi 👋 I'm Sanju Verma
+# Hi 👋 I'm Sanju Verma
 
 🎓 Computer Science Engineering Student
 📊 Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization
