@@ -1,6 +1,6 @@
 # Hi 👋 I'm Sanju Verma
 
-🎓 Computer Science Engineering Student
+
 📊 Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization
 
 I enjoy working with data and transforming raw datasets into meaningful insights that help businesses make better decisions.
